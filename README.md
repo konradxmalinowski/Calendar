@@ -1,54 +1,62 @@
-# 📅 Calendar  
-
-**Twój nowoczesny, stylowy i prosty kalendarz w przeglądarce!**  
-
-## ✨ Funkcje  
-
-- 🗓️ **Zarządzanie wydarzeniami**: Dodawaj, edytuj i usuwaj wydarzenia.  
-- 🎨 **Stylowy wygląd**: Estetyczny design dzięki CSS.  
-- ⚡ **Dynamiczne funkcje**: Szybka i płynna obsługa dzięki JavaScript.  
-- 📱 **Responsywność**: Działa zarówno na komputerze, jak i na urządzeniach mobilnych.  
+Here is the translated README into English:  
 
 ---
 
-## 📚 Jak zacząć?  
+# 📅 Calendar  
 
-1. **Klonowanie repozytorium**  
+**Your modern, stylish, and simple calendar for the browser!**  
+
+![HTML Badge](https://img.shields.io/badge/HTML-15.1%25-orange)
+![CSS Badge](https://img.shields.io/badge/CSS-34.9%25-blue)
+![JS Badge](https://img.shields.io/badge/JavaScript-50%25-yellow)
+
+## ✨ Features  
+
+- 🗓️ **Event Management**: Add, edit, and delete events.  
+- 🎨 **Stylish Design**: Aesthetic design thanks to CSS.  
+- ⚡ **Dynamic Functions**: Fast and smooth operation with JavaScript.  
+- 📱 **Responsiveness**: Works on both desktop and mobile devices.  
+
+---
+
+## 📚 How to Start?  
+
+1. **Clone the repository**  
    ```bash
    git clone https://github.com/konradxmalinowski/Calendar.git
    ```
 
-2. **Uruchomienie projektu**  
-   - Otwórz plik `index.html` w przeglądarce.  
+2. **Run the project**  
+   - Open the `index.html` file in your browser.  
 
-3. **Edycja kodu**  
-   - Kod źródłowy znajdziesz w plikach `.js`, `.css` oraz `.html`.  
-
----
-
-## 🛠️ Technologie  
-
-- **HTML**: Struktura aplikacji 🌐  
-- **CSS**: Stylizacja i layout 🎨  
-- **JavaScript**: Logika aplikacji ⚙️  
+3. **Edit the code**  
+   - Source code is available in `.js`, `.css`, and `.html` files.  
 
 ---
 
-## 🚀 Przyszłe aktualizacje  
+## 🛠️ Technologies  
 
-- 🌟 Integracja z API do synchronizacji kalendarza.  
-- 🔔 Powiadomienia o nadchodzących wydarzeniach.  
-- 🌍 Obsługa wielu języków.  
-
----
-
-## 👨‍💻 Autor  
-
-Projekt stworzony przez **[konradxmalinowski](https://github.com/konradxmalinowski)**.  
+- **HTML**: Application structure 🌐  
+- **CSS**: Styling and layout 🎨  
+- **JavaScript**: Application logic ⚙️  
 
 ---
 
-## Licenja
+## 🚀 Future Updates  
+
+- 🌟 Integration with an API for calendar synchronization.  
+- 🔔 Notifications for upcoming events.  
+- 🌍 Support for multiple languages.  
+
+---
+
+## 👨‍💻 Author  
+
+Project created by **[konradxmalinowski](https://github.com/konradxmalinowski)**.  
+
+---
+
+## License
 ```
 MIT License
 
